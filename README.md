@@ -1,4 +1,4 @@
-## 欢迎来到kangert个人博客
+## 欢迎来到【偏爱晚风】个人博客
 
 You can use the [editor on GitHub](https://github.com/kangerts/blog.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
